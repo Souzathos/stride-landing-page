@@ -52,7 +52,7 @@ const Index = () => {
         {/* Social Icons */}
         <div className="mt-12 mb-8">
           <a
-            href="https://instagram.com/stridedigital"
+            href="https://instagram.com/stridedigital.br"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center w-12 h-12 rounded-full border border-border bg-secondary hover:border-primary hover:bg-muted transition-all duration-300 hover:scale-110"
